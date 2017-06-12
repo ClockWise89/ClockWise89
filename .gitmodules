@@ -1,4 +1,4 @@
 [submodule "themes/hugo-creative-portfolio-theme"]
 	path = themes/hugo-creative-portfolio-theme
 	url = git@github.com:ClockWise89/ClockWise89.git
-	branch = master
+	branch = gh-pages
