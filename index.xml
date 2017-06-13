@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code and Crayons</title>
-    <link>https://clockwise89.github.io/ClockWise89/</link>
+    <link>/</link>
     <description>Recent content on Code and Crayons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Code and Crayons</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://clockwise89.github.io/ClockWise89/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>During my time at HiQ</title>
-      <link>https://clockwise89.github.io/ClockWise89/portfolio/work/</link>
+      <link>/portfolio/work/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://clockwise89.github.io/ClockWise89/portfolio/work/</guid>
+      <guid>/portfolio/work/</guid>
       <description>&lt;p&gt;HiQ is a larger consultant company where they help other companies digitalize themselves, or improve their already established digital world. This means that HiQ has their fingers in pretty much every industry and with an impressive range of cliens.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>frontend developer at CYBM</title>
-      <link>https://clockwise89.github.io/ClockWise89/portfolio/work2/</link>
+      <link>/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://clockwise89.github.io/ClockWise89/portfolio/work2/</guid>
+      <guid>/portfolio/work2/</guid>
       <description>&lt;p&gt;CYBM is a company that I&amp;rsquo;ve founded together with five other people where I carry the role as one of two app developers. we also have a designer, backend developer, and two sale managers who also act as product owners and project managers.
 &lt;/p&gt;</description>
     </item>
