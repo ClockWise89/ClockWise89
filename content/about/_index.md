@@ -11,4 +11,4 @@ During my sparetime I still spend a lot of time working with different projects.
 
 ![This is me][1]
 
-[1]: /ClockWise89/static/img/me.png
+[1]: img/me.png
