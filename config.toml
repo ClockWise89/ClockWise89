@@ -1,4 +1,4 @@
-baseurl = "https://celiasson.se/"
+baseurl = "http://celiasson.se/"
 title = "Celiasson - freelance developer"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
