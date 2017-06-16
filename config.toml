@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "violet"
   description = "Portfolio"
-  copyright = "&copy;2017 Code and Crayons"
+  copyright = "&copy;2017 Celiasson"
   sidebarAbout = [
     "I am a programmer with five years of game programming studies and 3 years of frontend development experience within the iOS platform.",
 	"I create digital solutions with focus on app development, and reside in Gothenburg, Sweden."
