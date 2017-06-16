@@ -1,9 +1,9 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "Code and Crayons"
+title = "Celiasson"
 +++
 
-The guy behind **Code and Crayons** is me, Christopher Eliasson, a 28 year old swedish country lad who moved to the big city of Gothenburg in order to make a name of himself. Actually, first I stopped by Karlskrona for five years honing my skills in game programming, at the Civilengineering in Game and Software development programme at Blekinges Institute of Technology. Throughout my studies I've made modest attempts at C, C#, C++, Assembly, HTML, CSS, Java, PHP, SQL, and DirectX.
+The guy behind **Celiasson** is me, Christopher Eliasson, a 28 year old swedish country lad who moved to the big city of Gothenburg in order to make a name of himself. Actually, first I stopped by Karlskrona for five years honing my skills in game programming, at the Civilengineering in Game and Software development programme at Blekinges Institute of Technology. Throughout my studies I've made modest attempts at C, C#, C++, Assembly, HTML, CSS, Java, PHP, SQL, and DirectX.
 
 After my studies I made some half hearted attempts to get into the game development industry, but eventually landed an opportunity to start my career as a mobile app developer at HiQ International. The next 3 years I spent learning the iOS platform, Objective-C and Swift, with ton of different tools and libraries. I've gathered experience in Unity3D, Git, Xamarin, continuous integration tools like buddybuild, distribution tools such as HockeyApp, or data gathering tools like Google Analytics, Firebase, Google Tag Manager, and Crashlytics. Not to mention working closely with android- and .net developers, designers and UX experts.
 
